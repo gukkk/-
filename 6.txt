@@ -111,7 +111,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1
-	}, {
+	 "jar":"https://gitea.com/leevi/NingMengDrink/raw/branch/main/custom_spider.jar"}, {
 		"key": "360_spider",
 		"name": "🐞360影视",
 		"api": "csp_SP360",
